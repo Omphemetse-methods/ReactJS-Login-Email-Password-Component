@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Maiden+Orange|Source+Code+Pro');
+
+h1 {
+  font-family: 'Maiden Orange', cursive;
+  font-family: 'Source Code Pro', monospace;
+}
+
+p {
+  font-family: 'Source Code Pro', monospace;
+}
